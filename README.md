@@ -1,4 +1,13 @@
 ### Hi there 👋
+### 🛠️ My language and tools 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,bash,cpp,discord,js,lua,linux,md,c,py,neovim" />
+  </a>
+</p>
+
+***
 
 <!--
 **ppondeu/ppondeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
