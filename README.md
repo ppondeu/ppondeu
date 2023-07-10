@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,bash,cpp,c,js,linux,py" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,cpp,c,cs,js,linux,py" />
   </a>
 </p>
 
