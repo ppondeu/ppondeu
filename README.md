@@ -1,9 +1,22 @@
 <div>
-  <h1>Hi there I am Nitcharat, You can call me Pond👋</h1>
-<h3>🛠️ My language and tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,postgresql,mysql,mongodb,react,express,nestjs,go" />
-  </a>
-</p>
+    <h2>Greetings! I'm Nitcharat, also known as Prataad 👋</h2>
+<div>
+    <h3>🛠️ My Skills</h3>
+    <section>
+  <h4>Frontend</h4>
+    <img src="https://skillicons.dev/icons?i=react,ts" />
+    </section>
+    <h4>Backend</h4>
+    <img src="https://skillicons.dev/icons?i=express,nestjs,ts" />
+    <img src="https://skillicons.dev/icons?i=go" />
+    </section>
+    </section>
+    <h4>Database</h4>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,mongodb" />
+    </section>
+    <section>
+    <h4>Tools</h4>
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </section>
+</div>
 </div>
