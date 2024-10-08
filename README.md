@@ -18,6 +18,6 @@
 #### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ppondeu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&bg_color=000000)
 
 ![ppondeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppondeu&show_icons=true&bg_color=00000000)
