@@ -1,4 +1,4 @@
-## Greetings! I'm Nitcharat, also known as Prataad 👋
+## Greetings! I'm Nitcharat, also known as ppondeurtx 👋
 
 ### 🛠️ Technical Skills
 
@@ -6,7 +6,7 @@
 ![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts)
 
 #### Backend
-![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,ts)
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,java,springboot,dotnet)
 ![Go](https://skillicons.dev/icons?i=go,)
 
 #### Database
